@@ -1,0 +1,15 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Banco de dados SQLite
+workout.db
+
+# Arquivos de IDEs
+.vscode/
+.idea/
